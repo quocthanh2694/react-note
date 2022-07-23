@@ -1,4 +1,4 @@
-# Reactjs tips
+# Reactjs advanced tips and best practices.
 
 ## Use interact params between Container and Child 
 ```
